@@ -82,3 +82,11 @@ p {
   margin-top: 8px;
   margin-bottom: 0;
 }
+
+a {
+  color: #d8d8d8;
+}
+
+a:hover {
+  color: #d8d8d8;
+}
